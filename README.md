@@ -1,4 +1,5 @@
 ***Multimodal-AI-Agent***
+
 This project builds a multimodal intelligent agent that can process both text and images using a combination of Large Language Models (LLMs) and Stable Diffusion. The goal is to allow natural language interaction where the agent can either respond with text explanations or generate relevant illustrations, depending on the query.
 
 
